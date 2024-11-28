@@ -1,12 +1,12 @@
 ## 💫 Overview 
 
-This repository demonstrates the basics of using EJS (Embedded JavaScript) templating engine with Node.js and Express.js. It also showcases a simple comment application that allows users to view, create, edit, and delete comments.
+This repository demonstrates the basics of using EJS (Embedded JavaScript) templating engine with Node.js and Express.js. It also showcases a simple comment website that allows users to view, create, edit, and delete comments.
 
 EJS is a templating engine that allows you to embed JavaScript code inside HTML templates. It provides a simple and efficient way to render dynamic data in your web applications.
 
 ## 💬 Simple Comment Website
 
-This application allows users to view, create, edit, and delete comments. It uses EJS templates to render the comments and provide a simple user interface.
+This website allows users to view, create, edit, and delete comments. It uses EJS templates to render the comments and provide a simple user UI.
 
 ## 🪄 Features of the Comment Website
 
