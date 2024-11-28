@@ -6,7 +6,7 @@ EJS is a templating engine that allows you to embed JavaScript code inside HTML 
 
 ## 💬 Simple Comment Website
 
-This website allows users to view, create, edit, and delete comments. It uses EJS templates to render the comments and provide a simple user UI.
+This website allows users to view, create, edit, and delete comments. It uses EJS templates to render the comments and provide a simple user user interface.
 
 ## 🪄 Features of the Comment Website
 
